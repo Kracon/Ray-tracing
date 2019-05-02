@@ -104,7 +104,7 @@ Celestial(rlimit, shift = [-r0,0])
 plt.xlabel('x/M')
 plt.ylabel('y/M')
 #plt.savefig('slightS.png', dpi=300) #Used to save images.
-#plt.show()
+plt.show()
 
 
 #Produces the angle map.
